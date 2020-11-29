@@ -1,7 +1,7 @@
 # GitPoem
 This is a poem about Git tut from TheCodingTrain
 
-##Here, you can go to RainbowPoem>Insights>Network and watch how RainbowPoem  got modified,branches were created and merged with pull request.
+## Here, you can go to RainbowPoem>Insights>Network and watch how RainbowPoem  got modified,branches were created and merged with pull request.
 
 1.First I created a new file "RainbowPoem" and added color green there.
 
