@@ -1,2 +1,2 @@
 # GitPoem
-This is a poem about Git tut from TheCodingTraing
+This is a poem about Git tut from TheCodingTrain
